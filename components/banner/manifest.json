@@ -1,0 +1,24 @@
+{
+  "main": "pct-banner.min.js",
+  "version": "4",
+  "sheetSettings": {
+    "defaultCols": 12,
+    "defaultRows": 1,
+    "minCols": 1,
+    "minRows": 1
+  },
+  "inputs": [
+    {
+      "key": "text",
+      "type": "String",
+      "label": "Text",
+      "placeholder": "Enter text"
+    },
+    {
+      "key": "color",
+      "type": "Color",
+      "label": "Color",
+      "defaultValue": "#021752"
+    }
+  ]
+}
