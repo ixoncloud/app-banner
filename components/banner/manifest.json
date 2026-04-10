@@ -1,8 +1,14 @@
 {
   "main": "pct-banner.min.js",
-  "version": "6",
+  "version": "8",
   "sheetSettings": {
     "defaultCols": 12,
+    "defaultRows": 1,
+    "minCols": 1,
+    "minRows": 1
+  },
+  "reportSettings": {
+    "defaultCols": 6,
     "defaultRows": 1,
     "minCols": 1,
     "minRows": 1
